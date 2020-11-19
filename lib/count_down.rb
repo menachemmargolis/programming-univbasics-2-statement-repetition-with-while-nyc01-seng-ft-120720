@@ -1,5 +1,5 @@
 cd = 10
-while (cd>=1) do 
+while cd>=1 do 
   puts  cd-=
 end
 
