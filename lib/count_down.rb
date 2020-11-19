@@ -1,5 +1,6 @@
 cd = 10
 while cd>=1 do 
-  puts  cd-=
+  puts  cd
+  cd-=
 end
 
