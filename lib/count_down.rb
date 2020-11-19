@@ -1,6 +1,6 @@
-cd = 10
-while cd>=1 do 
-  puts  cd
-  cd-=
+count = 10
+while count >= 1 do
+  puts count
+  count -= 1
 end
 
